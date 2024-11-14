@@ -116,11 +116,11 @@
         <table>
             <tr>
                 <th>ID</th>
-                <th>Título</th>
+                <th>TÃ­tulo</th>
                 <th>Autor</th>
-                <th>Data de Publicação</th>
+                <th>Data de PublicaÃ§Ã£o</th>
                 <th>Local</th>
-                <th>Ações</th>
+                <th>AÃ§Ãµes</th>
             </tr>
             <c:forEach var="livro" items="${listLivro}">
                 <tr>
